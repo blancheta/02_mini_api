@@ -10,7 +10,7 @@ The data will be stored in a sqlite db.
 
 0 - Import data via SQLAlchemy models into a sqlite db [  ]
 
-1 - List the first 100 animees sorted by [  ]
+1 - List the first 100 animees sorted by release date [  ]
 
 2 - Get all details about "Death Note" [  ]
 
