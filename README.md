@@ -66,4 +66,5 @@ At least one integration test is required for each request.
 - [Prevent from copy pasting token for each endpoint](https://community.postman.com/t/how-to-automatically-set-a-bearer-token-for-your-postman-requests/10126/17)
 - [Obey the goat pdf](https://englishonlineclub.com/pdf/Test-Driven%20Development%20with%20Python%20(Second%20Edition)%20%5BEnglishOnlineClub.com%5D.pdf)
 - [Obey the goat amazon link](https://www.amazon.co.uk/Test-Driven-Development-Python-Selenium-JavaScript-x/dp/1491958707/ref=as_li_ss_tl?ie=UTF8&qid=1502337608&sr=8-2&keywords=tdd+python&linkCode=sl1&tag=obethetesgoa-21&linkId=472f4eea099a845ca709cffeee73d909)
-- [Git](https://www.youtube.com/watch?v=hwP7WQkmECE)
+- [Git in 100 seconds](https://www.youtube.com/watch?v=hwP7WQkmECE)
+- [Git Udemy course](https://www.udemy.com/course/git-complete/?couponCode=OT50624NEW)
